@@ -1,0 +1,8 @@
+{
+  "name": "SoliApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "93de2550"
+}
